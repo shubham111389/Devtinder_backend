@@ -9,4 +9,5 @@ app.use("/",( req, res)=>{
 
 app.listen( '7000', ()=>{
     console.log("server listening on 7000 port");
+    
 })
